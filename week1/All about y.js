@@ -1,3 +1,5 @@
+"use strict";
+
 let y = "Amir";
 
 console.log("the value of my string will be: Amir ");
