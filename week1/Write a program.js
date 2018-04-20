@@ -1,3 +1,5 @@
+"use strict";
+
 let arrays = ["amir",21,];
 
 console.log (arrays);
