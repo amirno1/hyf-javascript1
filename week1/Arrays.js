@@ -1,3 +1,5 @@
+"use strict";
+
 let Arrays = [];
 
 console.log("The value is: []");
