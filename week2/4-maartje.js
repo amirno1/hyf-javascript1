@@ -58,4 +58,6 @@ let perHourSalary = 20;
 
 let theWholeSalary = hours * perHourSalary;
 
+console.log("Maartje worked for" + " " + hours.toFixed(2) + " " + "hours");
+console.log("If Maartje earns:" + perHourSalary + "€ per hour");
 console.log("Maartje has earned" + " " + theWholeSalary.toFixed(2) + " " + "€");
