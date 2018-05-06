@@ -1,12 +1,12 @@
 "use strict";
 
-let Arrays = [];
+let empty = [];
 
 console.log("The value is: []");
 
-console.log(Arrays);
+console.log(empty);
 
-let myFavoriteAnimals = ["dog","cat","horse"];
+let myFavoriteAnimals = ["dog", "cat", "horse"];
 
 console.log(myFavoriteAnimals);
 
